@@ -71,11 +71,6 @@ Satirical popular history in the tradition of the pre-revolutionary Russian maga
 
 ---
 
-## Структура репозитория / Repository structure
-
-.
-├── README.md
-└── Всеобщая_история_Мексики.pdf   # полный текст книги / full text of the book
 ## Теги / Topics
 
 мексика · сатира · история XIX века · мексиканская революция · научпоп
@@ -84,6 +79,3 @@ mexico · satire · history · nonfiction · book
 ## Лицензия / License
 
 © Игорь Никитин. Все права защищены. / © Igor Nikitin. All rights reserved.
-
-> Это значение по умолчанию для художественного текста. Если вы хотите разрешить свободное распространение, замените раздел на лицензию Creative Commons (например, CC BY-NC-ND).
-> This is a safe default for a literary work. To allow open sharing, swap this section for a Creative Commons license (e.g. CC BY-NC-ND).
